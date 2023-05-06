@@ -11,7 +11,7 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
 **Note**: This is going to be sorted by country.
 
 <h1>Vietnam</h1>
-<table>
+<table style="table-layout:fixed">
   <th>Streaming website</th>
   <th>Station's name</th>
   <th>City of origin</th>
