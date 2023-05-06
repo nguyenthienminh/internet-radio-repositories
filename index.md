@@ -30,7 +30,7 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
   </tr>
 </table>
 <h1>Canada</h1>
-<table>
+<table style="table-layout:fixed">
   <th>Streaming website</th>
   <th>Station's name</th>
   <th>City of origin</th>
