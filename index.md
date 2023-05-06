@@ -17,7 +17,7 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
   <th>City of origin</th>
   <th>Geoblocked?</th>
   <tr>
-    <td><a href="https://stream.vovmedia.vn/vov247">https://stream.vovmedia.vn/vov247</a></td>
+    <td><a style="overflow-wrap: break-word" href="https://stream.vovmedia.vn/vov247">https://stream.vovmedia.vn/vov247</a></td>
     <td>VOV 24/7 English</td>
     <td>Hanoi, Ho Chi Minh City, and Hue</td>
     <td>Unknown</td>
