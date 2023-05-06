@@ -36,7 +36,7 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
   <th>City of origin</th>
   <th>Geoblocked?</th>
   <tr>
-    <td><a href="https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8">https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8</a></td>
+    <td><a style="overflow-wrap: break-word" href="https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8">https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8</a></td>
     <td>CBC Music Vancouver</td>
     <td>Vancouver</td>
     <td>No</td>
