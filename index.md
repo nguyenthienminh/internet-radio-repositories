@@ -11,13 +11,13 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
 **Note**: This is going to be sorted by country.
 
 <h1>Vietnam</h1>
-<table style="table-layout:fixed">
+<table>
   <th>Streaming website</th>
   <th>Station's name</th>
   <th>City of origin</th>
   <th>Geoblocked?</th>
   <tr>
-    <td><a style="overflow-wrap: break-word" href="https://stream.vovmedia.vn/vov247">https://stream.vovmedia.vn/vov247</a></td>
+    <td><a href="https://stream.vovmedia.vn/vov247">https://stream.vovmedia.vn/vov247</a></td>
     <td>VOV 24/7 English</td>
     <td>Hanoi, Ho Chi Minh City, and Hue</td>
     <td>Unknown</td>
@@ -30,13 +30,13 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
   </tr>
 </table>
 <h1>Canada</h1>
-<table style="table-layout:fixed">
+<table>
   <th>Streaming website</th>
   <th>Station's name</th>
   <th>City of origin</th>
   <th>Geoblocked?</th>
   <tr>
-    <td><a style="overflow-wrap: break-word" href="https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8">https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8</a></td>
+    <td><a href="https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8">https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8</a></td>
     <td>CBC Music Vancouver</td>
     <td>Vancouver</td>
     <td>No</td>
