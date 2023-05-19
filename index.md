@@ -22,6 +22,11 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
     <td>Vancouver</td>
     <td>No</td>
   </tr>
+  <tr>
+    <td><a href="https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8">https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8</a></td>
+    <td>CBC Radio One Vancouver</td>
+    <td>Vancouver</td>
+    <td>No</td>
 </table>
 <h1>Vietnam</h1>
 <table>
