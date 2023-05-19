@@ -27,6 +27,7 @@ If you want to go and contribute to the website, go to the "Issues" tab on the w
     <td>CBC Radio One Vancouver</td>
     <td>Vancouver</td>
     <td>No</td>
+  </tr>
 </table>
 <h1>Vietnam</h1>
 <table>
